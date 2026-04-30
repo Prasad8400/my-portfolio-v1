@@ -1,0 +1,157 @@
+{
+  "name": "PRASAD SUTAR",
+  "title": "Lead Automation Engineer",
+  "summary": "Lead Automation Engineer specializing in the design and expansion of scalable test frameworks for enterprise-grade applications.",
+  "about": "As a Lead Automation Engineer, I specialize in architecting and expanding scalable test frameworks for complex enterprise applications. My expertise lies in Java-based UI and REST API automation, leveraging tools like Selenium, TestNG, and Cucumber to drive efficiency and reliability. I thrive on leading initiatives that transform manual processes into robust automated solutions, significantly reducing regression effort and elevating overall product quality.\n\nI am passionate about implementing quality engineering practices within Agile environments, ensuring that automation is an integral part of the development lifecycle. I enjoy mentoring teams, fostering a culture of continuous improvement, and applying innovative testing methodologies to deliver high-performance and resilient software.",
+  "skills": [
+    "Windows",
+    "Linux",
+    "Ubuntu",
+    "RHEL",
+    "Java",
+    "Git",
+    "Maven",
+    "Bash",
+    "Postman",
+    "Insomnia",
+    "Docker",
+    "Kubernetes",
+    "Agile",
+    "Scrum",
+    "Jira",
+    "OOPS",
+    "Selenium",
+    "TestNG",
+    "Cucumber"
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Enterprise IAM Automation Framework",
+      "description": "Developed and maintained a robust, Java-based automation framework for IBM Identity and Access Management (IAM) products, encompassing both UI (Selenium, TestNG, Cucumber) and REST API (Insomnia) testing. This framework significantly reduced manual QA effort for critical business flows and ensured stability across various deployments including AWS EC2 and Kubernetes.",
+      "tech": [
+        "Java",
+        "Selenium",
+        "TestNG",
+        "Cucumber",
+        "Insomnia",
+        "IBM IAM",
+        "AWS EC2",
+        "Kubernetes"
+      ],
+      "source": "derived_from_experience",
+      "link": ""
+    },
+    {
+      "id": "2",
+      "title": "Advanced Module Automation & Deployment Orchestration",
+      "description": "Spearheaded the creation of automation suites for complex modules such as Certification Manager, Advanced Workflows, and Authorization & Role Management. Additionally, implemented bash scripts to automate Kubernetes product deployment workflows, improving environment setup consistency and reducing deployment times.",
+      "tech": [
+        "Java",
+        "Selenium",
+        "TestNG",
+        "Cucumber",
+        "Bash",
+        "Kubernetes"
+      ],
+      "source": "derived_from_experience",
+      "link": ""
+    }
+  ],
+  "certifications": [
+    {
+      "id": "c1",
+      "title": "Selenium Java 101",
+      "issuer": "LambdaTest Certification",
+      "date": "",
+      "link": ""
+    },
+    {
+      "id": "c2",
+      "title": "TestNG",
+      "issuer": "LambdaTest Certification",
+      "date": "",
+      "link": ""
+    },
+    {
+      "id": "c3",
+      "title": "Playwright 101",
+      "issuer": "Lambda Certification",
+      "date": "",
+      "link": ""
+    },
+    {
+      "id": "c4",
+      "title": "Selenium 101 (Advance)",
+      "issuer": "LambdaTest",
+      "date": "",
+      "link": ""
+    },
+    {
+      "id": "c5",
+      "title": "Playwright 102",
+      "issuer": "LambdaTest",
+      "date": "",
+      "link": ""
+    },
+    {
+      "id": "c6",
+      "title": "PDEA Test Automation Java (CL2, CL3)",
+      "issuer": "PSL",
+      "date": "",
+      "link": ""
+    },
+    {
+      "id": "c7",
+      "title": "GenAI for Practitioners",
+      "issuer": "PSL",
+      "date": "",
+      "link": ""
+    }
+  ],
+  "experience": [
+    {
+      "id": "e1",
+      "company": "PSL",
+      "role": "Lead Software Engineer",
+      "date": "Oct 2025 — Present",
+      "description": [
+        "Architected and expanded scalable test frameworks for enterprise applications, focusing on Java-based UI and REST API automation using Selenium, TestNG, and Cucumber.",
+        "Directed automation initiatives for previously manual modules, leading to substantial reductions in regression effort and marked improvements in product quality and reliability.",
+        "Championed quality engineering practices within Agile teams, implementing continuous integration for automation suites and enhancing overall CI/CD pipelines.",
+        "Provided strategic technical leadership, guiding the team in adopting innovative testing methodologies and tools to optimize validation processes."
+      ]
+    },
+    {
+      "id": "e2",
+      "company": "PSL",
+      "role": "Senior Software Engineer",
+      "date": "Jun 2024 — Oct 2025",
+      "description": [
+        "Led the design and implementation of advanced automation strategies for complex enterprise-grade applications, enhancing test framework scalability.",
+        "Mentored junior engineers on best practices in Java-based UI and REST API automation, fostering a culture of technical excellence.",
+        "Drove refactoring efforts for critical test suites, improving maintainability, reliability, and adapting them to evolving product architectures.",
+        "Collaborated with development teams to integrate automation early in the SDLC, ensuring quality gates and accelerating release cycles."
+      ]
+    },
+    {
+      "id": "e3",
+      "company": "PSL",
+      "role": "Software Engineer",
+      "date": "Jun 2022 — Jun 2024",
+      "description": [
+        "Deployed and maintained IBM IAM products across QA Software Stack and Kubernetes environments, configuring DB2, ISVD, and SDI on AWS EC2.",
+        "Spearheaded automation solutions for manual QA procedures using Java frameworks (Selenium, TestNG, Cucumber), significantly reducing effort for critical business flows.",
+        "Developed comprehensive automation suites for high-impact modules (Certification Manager, Advanced Workflows, Design Form) and new features (Authorization & Role Management), expanding coverage.",
+        "Built and integrated a REST API test suite using Insomnia with the UI automation framework, enhancing end-to-end validation and team-wide testing efficiency."
+      ]
+    }
+  ],
+  "contact": {
+    "email": "prasadsutar6544@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/prasadsutar8400",
+    "github": "https://github.com/Prasad8400",
+    "portfolio": ""
+  },
+  "resumeUrl": "./Prasad_Sutar_Resume.pdf"
+}
